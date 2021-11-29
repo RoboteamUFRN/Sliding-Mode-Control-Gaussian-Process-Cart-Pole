@@ -18,3 +18,8 @@ The columns of the results, results_smc, results_track, and results_smc_track fi
 [8] desired output for the GP distribution
 [9] mean of the GP distribution
 [10] variance of the GP distribution
+
+The columns of the results_dist_cart and results_dist_cart_track files are divided as follows:
+[1] input of the distribution
+[2] posterior mean
+[3] posterior variance
