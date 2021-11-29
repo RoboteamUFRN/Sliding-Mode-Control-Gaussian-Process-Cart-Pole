@@ -23,3 +23,7 @@ The columns of the results_dist_cart and results_dist_cart_track files are divid
 [1] input of the distribution
 [2] posterior mean
 [3] posterior variance
+
+The Armadillo library [1] is needed for the implementation.
+
+[1] Sanderson, C. and Curtin, R., 2016. Armadillo: a template-based C++ library for linear algebra. Journal of Open Source Software, 1(2), p.26.
